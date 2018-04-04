@@ -15,7 +15,7 @@
     <PackageLicenseUrl>https://github.com/cdorst/Addresses.StreetAddressLines/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/Addresses.StreetAddressLines</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/Addresses.StreetAddressLines</RepositoryUrl>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
   </PropertyGroup>
 
   <ItemGroup>
